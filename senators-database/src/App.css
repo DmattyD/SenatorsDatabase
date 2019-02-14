@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background: lightblue;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+  background: white;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+    border: 2px solid black;
+    padding: 1px;
+  
+}
+
+
+
