@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { Link } from "react-router-dom";
 class Home extends Component { 
 
 state = {
@@ -26,6 +26,7 @@ async  componentWillMount() {
     console.log(this.state)
     return (
       <div className="Home">
+        <Link to='/State'>State</Link>
         <p> </p>
       </div>
     );

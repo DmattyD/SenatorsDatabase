@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Party extends Component {
+class Name extends Component {
   render() {
     return (
       <div className="Name">
@@ -19,4 +19,4 @@ class Party extends Component {
   }
 }
 
-export default Party;
+export default Name;

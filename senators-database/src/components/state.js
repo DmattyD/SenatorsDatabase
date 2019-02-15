@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 
 class State extends Component {
+
+  // state {
+  //   _state: ''
+  // }
+
+
+
   render() {
     return (
       <div className="State">
